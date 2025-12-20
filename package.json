@@ -1,0 +1,27 @@
+{
+  "name": "therapyai-official",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "author": "AtharvMahajan-Skyris",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.20.0",
+    "@qdrant/js-client-rest": "^1.15.1",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.2",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.18.1",
+    "redis": "^5.8.2",
+    "uuid": "^13.0.0",
+    "wav": "^1.0.2"
+  }
+}
