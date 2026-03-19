@@ -81,10 +81,17 @@ src/
    ```
 
 ## 🤝 Contribution
-> This project was developed as a hackathon entry.
-> - **Backend & AI Logic**: Developed by [Atharv Mahajan](https://github.com/AtharvMahajan-Skyris). I leveraged AI tools to deepen my understanding and learning of complex backend patterns and AI integrations.
-> - **Frontend**: Crafted by a talented collaborator/friend.
-> - **Documentation**: Generated with the assistance of **Antigravity AI**.
+
+This project was developed as part of a hackathon.
+
+- **Backend & AI Logic**: Developed by [Atharv Mahajan](https://github.com/AtharvMahajan-Skyris).  
+  Leveraged AI tools to explore and implement advanced backend architectures and AI integrations.
+
+- **Frontend & Team Lead**: Designed and led by [Azeem Sheikh](https://github.com/limitlesser-dev).  
+  Directed the project during the hackathon and handled the frontend experience.
+
+- **Documentation**: Generated with the assistance of **Antigravity AI**.
 
 ---
-*Developed with ❤️ by Atharv Mahajan*
+
+**Built with intent and ambition by Atharv Mahajan & Azeem Sheikh ❤️**
